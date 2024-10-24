@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jibiyuva.github.io/sitemap/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/HIw/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/UDo/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/kpq/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/edl/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/lAg/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/yPY/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/Ydi/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/HMY/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/bEc/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/Xfo/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/ZRt/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/grM/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/Wkg/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/gJG/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/wcs/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/kJV/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/sbL/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/btV/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/VxO/sitemap_index.jibiyuva
+Sitemap: https://jibiyuva.github.io/hdZ/sitemap_index.jibiyuva
